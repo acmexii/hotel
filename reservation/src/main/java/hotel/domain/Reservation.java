@@ -22,6 +22,7 @@ public class Reservation  {
     
     
     private Long id;
+    private String name;
 
     @PostPersist
     public void onPostPersist(){
