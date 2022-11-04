@@ -22,7 +22,7 @@ See the README.md files inside the each microservices directory:
 
 - reservation
 
-
+ 
 ## Run API Gateway (Spring Gateway)
 ```
 cd gateway
